@@ -5,6 +5,7 @@
 ## Build Setup
 
 ``` bash
+通过elementui 实现表格的行合并(任意行数),并且斑马条纹以及行的操作时间在合并的地方都能正常工作
 # install dependencies
 npm install
 
