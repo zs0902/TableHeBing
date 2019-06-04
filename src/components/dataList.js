@@ -1,0 +1,45 @@
+let dataList = [
+    {card_no:"1000",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1001",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1001",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1002",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1003",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1003",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1004",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1005",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+    agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1006",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1006",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1007",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1007",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1008",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    },
+    {card_no:"1009",iccid:"1000",up_channel_name:"上海",agent_name:"李白",agent_allot_time:"2018-01-01",activation_time:"2018-01-01",
+     agent_allot_id:"1",allot_reason:"测试",apn_channel:"通用apn",up_card_type:"大王",down_card_type:"小王",real_flow:"100M",total_flow:"100M"
+    }
+]
+export default dataList
